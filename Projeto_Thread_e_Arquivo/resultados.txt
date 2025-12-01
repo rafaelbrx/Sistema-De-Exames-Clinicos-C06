@@ -1,0 +1,1 @@
+Paciente: 12345678900; roberto; Colesterol; 150.0; 01/12/2025 09:41:47
